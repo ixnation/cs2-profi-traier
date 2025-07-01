@@ -1,0 +1,43 @@
+h1 {
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+
+p:first-of-type{
+    font-weight: bolder;
+    font-size: 40px;
+    background-color: beige;
+}
+table{
+    font-size: 30px;
+}
+
+
+ul{
+    font-size: 25px;
+    
+}
+
+img{
+    width: 100%;
+    max-width: 1500px;
+}
+
+
+h3{
+    font-size: 45px;
+
+}
+
+.center-text{
+    text-align: center;
+}
+p{
+    font-size: 30px;
+    background-color: beige;
+   font-weight: bold;
+}
